@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>de·con·struct</title>
-    <link href="https://github.com/thelastinuit/thelastinuit.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/thelastinuit/thelastinuit.github.io" />
+    <link href="https://blog.aloui.se/feed.xml" rel="self" />
+    <link href="https://blog.aloui.se" />
     <updated>2023-08-01T11:14:43-05:00</updated>
     <author>
         <name>thelastinuit</name>
     </author>
-    <id>https://github.com/thelastinuit/thelastinuit.github.io</id>
+    <id>https://blog.aloui.se</id>
 
     <entry>
         <title>Open</title>
         <author>
             <name>thelastinuit</name>
         </author>
-        <link href="https://github.com/thelastinuit/thelastinuit.github.io/open.html"/>
-        <id>https://github.com/thelastinuit/thelastinuit.github.io/open.html</id>
+        <link href="https://blog.aloui.se/open.html"/>
+        <id>https://blog.aloui.se/open.html</id>
 
         <updated>2023-08-01T11:14:43-05:00</updated>
             <summary>

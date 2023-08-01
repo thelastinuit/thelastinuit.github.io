@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "de·con·struct",
+    "description": "",
+    "home_page_url": "https://github.com/thelastinuit/thelastinuit.github.io",
+    "feed_url": "https://github.com/thelastinuit/thelastinuit.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "thelastinuit"
+    },
+    "items": [
+        {
+            "id": "https://github.com/thelastinuit/thelastinuit.github.io/open.html",
+            "url": "https://github.com/thelastinuit/thelastinuit.github.io/open.html",
+            "title": "Open",
+            "summary": "What a mess we made; trying to prove we don't need each other. Ginnie Bale",
+            "content_html": "<blockquote>\n<p data-pm-slice=\"1 1 []\">What a mess we made;<br>trying to prove we don't need each other.<br><br><strong><em>Ginnie Bale</em></strong></p>\n</blockquote>",
+            "author": {
+                "name": "thelastinuit"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-01T11:14:34-05:00",
+            "date_modified": "2023-08-01T11:14:43-05:00"
+        }
+    ]
+}

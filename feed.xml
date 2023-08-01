@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>de·con·struct</title>
+    <link href="https://github.com/thelastinuit/thelastinuit.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/thelastinuit/thelastinuit.github.io" />
+    <updated>2023-08-01T11:14:43-05:00</updated>
+    <author>
+        <name>thelastinuit</name>
+    </author>
+    <id>https://github.com/thelastinuit/thelastinuit.github.io</id>
+
+    <entry>
+        <title>Open</title>
+        <author>
+            <name>thelastinuit</name>
+        </author>
+        <link href="https://github.com/thelastinuit/thelastinuit.github.io/open.html"/>
+        <id>https://github.com/thelastinuit/thelastinuit.github.io/open.html</id>
+
+        <updated>2023-08-01T11:14:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                    What a mess we made; trying to prove we don't need each other. Ginnie Bale
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p data-pm-slice="1 1 []">What a mess we made;<br>trying to prove we don't need each other.<br><br><strong><em>Ginnie Bale</em></strong></p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
+</feed>

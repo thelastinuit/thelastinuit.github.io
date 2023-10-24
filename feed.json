@@ -9,5 +9,19 @@
         "name": "thelastinuit"
     },
     "items": [
+        {
+            "id": "https://blog.aloui.se/i-believe-in-love.html",
+            "url": "https://blog.aloui.se/i-believe-in-love.html",
+            "title": "I Believe In Love",
+            "summary": "There is probably lots of people who believe that. But in my life on Earth, she is the first person I heard to say that. I also believe such thing but I kept it to myself because I've heard people critize other people about it&hellip;",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"694\" height=\"346\" style=\"width: 694px; height: 346px;\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://raw.githubusercontent.com/thelastinuit/thelastinuit.github.io/videos/ibelieveinlove.mp4\" type=\"video/mp4\" /></video></figure>\n<p>There is probably lots of people who believe that. But in my life on Earth, she is the first person I heard to say that. I also believe such thing but I kept it to myself because I've heard people critize other people about it and I got scared. I didn't want to be rejected. I was only a child.</p>\n<p>After so many years, I can say it without feeling bad. Hearing her uttering those words vibed so deep in me that it broke me out of my self-constructed shell. After all, it was me who put me there not people's criticism.</p>\n<p>Is such thing silly? I will assume it is but I rather live in believing such thing. I have dwelled in other philosophies and I just can't keep doing that. </p>\n<p>When I was a child I was such a hopeless romantic and silly. My grandma understood that. She was my best friend. I saw Life with such awe and she did too.</p>\n<p>Why did I let society to mold me? Anyway, it is over.</p>\n<p>I believe in Love.</p>",
+            "author": {
+                "name": "thelastinuit"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-23T11:51:57-05:00",
+            "date_modified": "2023-10-23T20:07:21-05:00"
+        }
     ]
 }
